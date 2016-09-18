@@ -5,6 +5,7 @@ public class Hellogit {
 	public static void main(String[] args) {
 		// a greeting
 		System.out.println("hellogit1");
+		System.out.println("test2");
 		
 
 	}
